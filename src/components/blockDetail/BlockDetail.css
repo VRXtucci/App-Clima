@@ -1,0 +1,57 @@
+.cont{
+    background-color: #1E223A;
+    width: 120px;
+    Height: 177px;
+    
+
+
+}
+
+.date{
+
+    font-weight: 500;
+    font-size: 16px;
+    color: #E7E7EB;
+}
+
+.contImg{
+   
+    height: 62px;
+   
+}
+
+.imageMin{
+    width: 50px;
+    
+}
+
+.temperatures{
+    display: flex;
+    justify-content: space-around;
+}
+
+.tem{
+    font-weight: 500;
+    font-size: 16px;
+} 
+
+
+.temMax{
+    color: #E7E7EB;
+}
+
+.temMin{
+    color: #A09FB1;
+
+}
+
+.IconNear{
+    width: 40px;
+    height: 40px;
+    background-color:#616375;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    
+}
